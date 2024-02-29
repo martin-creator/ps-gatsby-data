@@ -1,0 +1,270 @@
+repo_name: martin-creator/ps-gatsby-data
+report_id: 6742a7a070edc3a0b4c9b0267ceaaf46
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:52:41+00:00'
+requested_by: marcelopastorino
+provider: github
+branch: main
+detected_tools_count: 18
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-05-11 15:16:32.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-02-26 17:04:16.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-02-26 17:04:16.000000000 Z
+- name: Netlify
+  description: Build, deploy and host your static site or app with a drag and drop
+    interface and automatic delpoys from GitHub or Bitbucket
+  website_url: https://www.netlify.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/2748/default_5dfbb146cf22182bca88c7d07f2515a5888fc12a.jpg
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-05 11:53:41.000000000 Z
+- name: Gatsby
+  description: Free, open source framework for building blazing fast websites and
+    apps with React
+  website_url: https://www.gatsbyjs.org
+  version: 2.32.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Static Site Generators
+  image_url: https://img.stackshare.io/service/5472/default_189db484e0770a6101c6a70f0ef0172bc0f8de37.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+- name: Netlify CMS
+  description: Open source content management for your Git workflow
+  website_url: https://www.netlifycms.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: Self-Hosted Blogging / CMS
+  image_url: https://img.stackshare.io/service/7613/YIgPht1s_400x400.jpg
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-05 11:53:41.000000000 Z
+- name: gatsby-image
+  description: Lazy-loading React image component with optional support for the blur-up
+    effect
+  package_url: https://www.npmjs.com/gatsby-image
+  version: 2.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18081/image.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+- name: gatsby-plugin-sharp
+  description: Wrapper of the Sharp image manipulation library for Gatsby plugins
+  package_url: https://www.npmjs.com/gatsby-plugin-sharp
+  version: 2.14.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17786/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+  vulnerabilities:
+  - name: Path traversal vulnerability in gatsby-plugin-sharp
+    cve_id: CVE-2023-30548
+    cve_url: https://github.com/advisories/GHSA-h2pm-378c-pcxx
+    detected_date: Apr 21
+    severity: moderate
+    first_patched: 4.25.1
+- name: gatsby-source-filesystem
+  description: Gatsby plugin which parses files within a directory for further parsing
+    by other plugins
+  package_url: https://www.npmjs.com/gatsby-source-filesystem
+  version: 2.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17100/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+- name: gatsby-transformer-remark
+  description: Gatsby transformer plugin for Markdown using the Remark library and
+    ecosystem
+  package_url: https://www.npmjs.com/gatsby-transformer-remark
+  version: 2.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18647/default_3eb5180fb08eb9c684c6269a642bfab3a16bcf1d.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+  vulnerabilities:
+  - name: gatsby-transformer-remark has possible unsanitized JavaScript code injection
+    cve_id: CVE-2023-22491
+    cve_url: https://github.com/advisories/GHSA-7ch4-rr99-cqcw
+    detected_date: Jan 12
+    severity: high
+    first_patched: 5.25.1
+- name: gatsby-transformer-sharp
+  description: Gatsby transformer plugin for images using Sharp
+  package_url: https://www.npmjs.com/gatsby-transformer-sharp
+  version: 2.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18094/image.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-04-27 17:03:41.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-02-26 17:04:16.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 17.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-05-11 15:16:32.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/martin-creator/ps-gatsby-data/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Evangeloper
+  last_updated_on: 2021-05-11 15:16:32.000000000 Z
